@@ -15,17 +15,11 @@ TruthGuard is an AI-powered tool that helps users verify news headlines and comb
 - 📈 Performance tracking across retraining cycles
 - 🌐 Intuitive, user-friendly interface
 
-# 🚀 Try It Live
+## 🚀 Try It Live
 
-Experience TruthGuard without installation:
-
-👉 [Try the live demo on Streamlit Community Cloud](https://truthguard.streamlit.app)
+# COMING SOON!
 
 # 🖥️ Run Locally
-
-## Prerequisites
-- Python 3.8+
-- Git
 
 ## Installation
 ```bash
@@ -106,4 +100,5 @@ web-app/
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahim5570)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abdullah-220917319)
+
 
