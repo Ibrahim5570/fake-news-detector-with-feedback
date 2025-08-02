@@ -1,9 +1,7 @@
 # 📰 TruthGuard: AI-Powered Fake News Detection
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://truthguard.streamlit.app)
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/truthguard?style=social)](https://github.com/yourusername/truthguard)
-![GitHub license](https://img.shields.io/github/license/yourusername/truthguard)
-
+[![GitHub Repo stars](https://img.shields.io/github/stars/Ibrahim5570/fake-news-detector-with-feedback?style=social)](https://github.com/Ibrahim5570/fake-news-detector-with-feedback)
 ![TruthGuard Screenshot](screenshot.png)
 
 TruthGuard is an AI-powered tool that helps users verify news headlines and combat misinformation. By leveraging machine learning, it analyzes linguistic patterns to identify potentially fake news with user feedback to continuously improve accuracy.
@@ -108,3 +106,4 @@ web-app/
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahim5570)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abdullah-220917319)
+
